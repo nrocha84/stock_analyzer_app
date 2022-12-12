@@ -1,0 +1,12 @@
+default:
+    host:       "cluster0.lggfbgp.mongodb.net"   
+    username:   "nckrocha"
+    password:   "TrueNorth2021"
+    database:   "stock_analyzer"
+    collection: "user_base_test"
+production:
+    host:       "cluster0.lggfbgp.mongodb.net"
+    username:   "nckrocha"
+    password:   "TrueNorth2021"
+    database:   "stock_analyzer"
+    collection: "user_base"
